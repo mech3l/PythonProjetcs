@@ -1,0 +1,4 @@
+tupple : é uma lista inalteravel, para faze-la, basta substituir os colchetes por parenteses
+para utilizar o pytest, ao criar uma classe, o nome tem que começar com test_ .
+uma boa estrategia para desenvolvimento de um codigo que vai ser testado é a utilização Given-When-Then.
+marks são tipo o resumo mais organizado de um nome de uma função.

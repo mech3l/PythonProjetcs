@@ -1,0 +1,48 @@
+end="/n" = pula pra poxima linha
+sep="" : define o que vai entre cada espaço nas srings da linha de comando
+imput() : prompt()
+:     : bloco para adicionar instruçoes aquela função
+elif() : else com if, normalmente usa quando tem mais de um SE pra ser executado, mais condições para serem executadas
+!=   : diferente 
+while() : repetir
+.format() : substitui {} por variaveis numa string (ex: "fui {} na {}.format (morar,rua) , ficando fui morar na rua)
+range() : cria uma sequencia de numeros
+depois de importar uma biblioteca (adicionar de fora, uma função ou codigo),
+para fazer isso você usa o comando  import ()  depois o comando/bibloteca que você quer,
+nesse caso, iportando a função random.random()
+random.random() : gera um numero aleatorio entre 0.0 e 1.0
+# : comentario
+// : devolve o valor inteiro da divisão sem arredondar
+def : criar uma função
+.find() : procura por uma letra na string e devolve a posição que ela esta
+.index() : retorna a posição de um elemento na lista
+.count() : retorna a quantidade desse elemento na lista
+.append() : adiciona um elemento a lista
+.pop() : exclui um valor da lista
+tupple() : torna uma lista mutavel para imutavel
+list() : torna uma lista imutavel para mutavel.
+assert : operador logico, verifica se é verdadeiro.
+# : fazer um comentario.
+raise exeption() : exibe a palvara que você colocou dentro como um erro, tipo um popap.
+with : literal tradução de "com".
+
+
+
+
+No terminal/console de depuração.
+
+python -3 venv venv : cria um ambiente virtual.
+source venv/bin/activate : ativa o ambiente virtual.
+pip install pytest==7.1.2 : instala o pytest versão 7.1.2 na maquina virtual.
+pip freeze : mostra todos os pacotes/recursos intalados no ambiente virtual.
+pip freeze > requeriments.tx : cria uma lista com o nome de todos os recursos e cria um arquivo separado.
+pytest -v : verifica/testa se os comandos/acodigos estão funcionando.
+pytest -v ♣nomedafuçao/classe♣ : testa somente aquela função, verificando se ela esta funcional.
+pytest -v -n ♣nomedomark♣ : testa aquele mark.
+pytest --markers : exibe os tipos  de marks que você pode usar.
+
+
+
+
+
+
